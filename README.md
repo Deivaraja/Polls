@@ -3,7 +3,7 @@
 
 ## AIM
 To develop a Django application to implement polls.
-
+  
 
 ## DESIGN STEPS
 
